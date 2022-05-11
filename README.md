@@ -1,6 +1,5 @@
-# Liniker
-# 📌Hello world!
-Olá sou desenvolvedor seja bem vindo ao meu git-hub.
+# 📌 Me chamo Liniker
+# Seja bem vindo ao meu Git-Hub.
 - 💘 Apaixonado por técnologia.
 - 📚 Esporte favorito Estudar.
 - 🗓️ De segunda à sexta </>Programar</>
