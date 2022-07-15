@@ -2,9 +2,9 @@
 # Seja bem vindo ao meu Git-Hub.
 - 💘 Apaixonado por técnologia.
 - 📚 Esporte favorito Estudar.
-- 🗓️ De segunda à sexta </>Programar</>
-- 🗓️ Final de semana </>Programar</>
-- ⌛ Meu Hobby é programação em </>Games</>
+- 🗓️ De segunda à sexta <>Programar</>
+- 🗓️ Final de semana <>Programar</>
+- ⌛ Meu Hobby é programação em <>Games</>
 
 <div>
     <a href="https://github.com/LinikerNogueiraMachado"></a>
