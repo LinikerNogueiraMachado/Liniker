@@ -1,11 +1,6 @@
-# 📌 Me chamo Liniker
+# 📌 Olá!
 # Seja bem vindo ao meu Git-Hub.
-- 💘 Apaixonado por técnologia.
-- 📚 Esporte favorito Estudar.
-- 🗓️ De segunda à sexta <>Programar</>
-- 🗓️ Final de semana <>Programar</>
-- ⌛ Meu Hobby é programação em <>Games</>
-
+- 💘 Sou apaixonado por técnologia 💘
 <div>
     <a href="https://github.com/LinikerNogueiraMachado"></a>
     <img height="210em" src="https://github-readme-stats.vercel.app/api?username=LinikerNogueiraMachado&show_icons=true&theme=dracula&include_all_commits=true&count_pivate=true"/>
